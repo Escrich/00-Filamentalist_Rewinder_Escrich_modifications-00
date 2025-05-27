@@ -8,3 +8,8 @@ ERCF Filamentalist rewinder modifications
 ### Few days ago, I discovered the Filamentalist  rewinder
 
 Then I decided to print the first prototype and made some changes, after that, I discovered the latest version of Filamentalist rewinder, then I will come back soon with new modifications!
+
+### Modifications has been done on following elements:
+
+- Modified back roller, now has been made as a single part, ussing supports aprinting time, I need to see the new ones, in order to adopt the news or continue with those rebuilt old one.
+- 
