@@ -34,5 +34,5 @@ https://t.me/escrich
 https://www.tiktok.com/@josemescrich
 
 <sub>
-20250509 Jose M. Escrich 
+20250527 Jose M. Escrich 
 </sub>
