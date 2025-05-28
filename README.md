@@ -24,6 +24,11 @@ Then I decided to print the first prototype and made some changes, after that, I
   and avoiding the plastic to be scrapped, this is easily understandable looking at the related pictures.
 
 - Added a variant, with locking screw to Rim rollers 20250528.
+
+
+<p align="left">
+<img src="https://github.com/Escrich/00-Filamentalist_Rewinder_Escrich_modifications-00/blob/master/20250527%20Common/overview.jpg" alt='testing prototipes' width='50%'>
+</p>
   
 
  
