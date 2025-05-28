@@ -22,6 +22,8 @@ Then I decided to print the first prototype and made some changes, after that, I
 - Changes on filament input output part, because as on lots of DYI designs, there is a screw, working as an axle, with a big part of group of parts rotating around it,
   but scrapping the main part with the screw's thread, working as a metal file, then I introduced a piece of 4 mm OD brass pipe, in order to be used as a "bearing", holding inside the moving screw,
   and avoiding the plastic to be scrapped, this is easily understandable looking at the related pictures.
+
+- Added a variant, with locking screw to Rim rollers 20250528.
   
 
  
