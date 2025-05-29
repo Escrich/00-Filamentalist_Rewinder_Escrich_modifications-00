@@ -6,5 +6,7 @@
 </p>
 
 
-### Two halves Back roller with spacer using two units of 688 ball bearings, on each half.
+### Two halves Back roller with spacer using two units of 688 ball bearings, on each half 
+
+- You need to print two rollers and a single spacer.
 
