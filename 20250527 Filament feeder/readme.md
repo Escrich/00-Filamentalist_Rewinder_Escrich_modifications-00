@@ -1,4 +1,4 @@
-## Pictures on folder
+## Metal spacer mounting on it
 
 <p align="left">
 <img src="IMG20250527135145.jpg" alt='Brass pipe' width='50%'>
