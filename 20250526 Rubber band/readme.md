@@ -6,5 +6,5 @@
 </p>
 
 
-### TPU Rubber band, to avoid the commercial ones and source it at home.
+### TPU Rubber band, to avoid the commercial ones, and be sourced at home.
 
