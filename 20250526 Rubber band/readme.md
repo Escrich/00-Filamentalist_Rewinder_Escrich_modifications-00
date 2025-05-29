@@ -1,10 +1,10 @@
-# Modified Drive roller
+# Rubber band
 
 
 <p align="left">
-<img src="https://github.com/Escrich/00-Filamentalist_Rewinder_Escrich_modifications-00/blob/master/20250526%20Modified%20drive%20roller/Modified%20drive%20roller.JPG" alt='Modified drive roller' width='60%'>
+<img src="https://github.com/Escrich/00-Filamentalist_Rewinder_Escrich_modifications-00/blob/master/20250526%20Rubber%20band/Rubber%20band.JPG" alt='Rubber band' width='60%'>
 </p>
 
 
-### Drive roller in two parts, with heat insets and screws, to use a TPU part, and avoid the O-rings use
+### TPU Rubber band, to avoid the commercial ones and source it at home.
 
