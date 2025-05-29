@@ -1,8 +1,8 @@
-# Rim roller with locking screw
+# Modified Rim roller
 
 
 <p align="left">
-<img src="https://github.com/Escrich/00-Filamentalist_Rewinder_Escrich_modifications-00/blob/master/20250526%20Modified%20Rim%20roller/Rim%20roller%20with%20locking%20screw/20250528%20Half%20Rim%20roller%20with%20square%20nut%20and%20locking%20screw%20(05).JPG" alt='Rim roller with square nunt and locking screw' width='60%'>
+<img src="(https://github.com/Escrich/00-Filamentalist_Rewinder_Escrich_modifications-00/blob/master/20250526%20Modified%20Rim%20roller/Images/20250526%20Rim%20roller%20with%20tpu%20rubber%20band%20(03).JPG)" alt='Modified Rim roller' width='60%'>
 </p>
 
 ### To mount this half of the rim you need to use, a M3x10 headless screw, suitable for allen key, and a M3 square nut, and to mount the whole parts, following the below sequence:
