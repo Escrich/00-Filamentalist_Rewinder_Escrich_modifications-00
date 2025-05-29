@@ -5,7 +5,7 @@ ERCF Filamentalist rewinder modifications
 <img src="https://github.com/Escrich/00-Filamentalist_Rewinder_Escrich_modifications-00/blob/master/20250527%20Common/IMG20250526154720.jpg" alt='testing prototipes' width='50%'>
 </p>
 
-### Few days ago, I discovered the Filamentalist  rewinder
+### Few days ago (20250524), I discovered the Filamentalist  rewinder
 
 Then I decided to print the first prototype and made some changes, after that, I discovered the latest version of Filamentalist rewinder, then I will come back soon with new modifications!
 
